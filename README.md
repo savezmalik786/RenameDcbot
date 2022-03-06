@@ -1,5 +1,5 @@
 # Rename-Bot
-This is a very simple Telegram Files Rename Bot by [@AbirHasan2005](https://t.me/AbirHasan2005).
+This is a very simple Telegram Files Rename Bot by [@sahid_malik](https://t.me/sahid_malik786).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selfie-bd&repo=RenameDcbot&theme=tokyonight)](https://github.com/selfie-bd/RenameDcbot&bg_color=#24292F)
 
