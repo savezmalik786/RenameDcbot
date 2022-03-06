@@ -26,7 +26,7 @@ status - Show Users Count in DB. (Admin Only)
 ```
 
 ### Support Group
-<a href="https://t.me/groupdcbots"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/+gXuMKXOWm1UyOTdl"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
@@ -35,7 +35,7 @@ Press Below Button to Deploy!
 
 
 <p align="">
-    <a href="https://heroku.com/deploy?template=https://github.com/selfie-bd/savezmalik786">
+    <a href="https://heroku.com/deploy?template=https://github.com/savezmalik786/RenameDcbot">
     <img src="https://github.com/nikhileashy/justfor_testing/blob/main/herokudeploy-01-cropped.svg" alt="herokudeploy-01" border="0" height="90" width="285"></a>
 </p>
 
